@@ -2,7 +2,7 @@
 using Moq;
 using Xunit;
 
-namespace FunWithAutofixture
+namespace FunWithAutofixture.Tests
 {
     public class UnHappyTest
     {

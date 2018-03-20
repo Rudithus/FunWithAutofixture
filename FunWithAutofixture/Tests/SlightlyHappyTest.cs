@@ -1,11 +1,11 @@
-﻿using AutoFixture;
+﻿using System.Linq;
+using AutoFixture;
 using AutoFixture.AutoMoq;
 using FluentAssertions;
 using Moq;
-using System.Linq;
 using Xunit;
 
-namespace FunWithAutofixture
+namespace FunWithAutofixture.Tests
 {
     public class SlightlyHappyTest
     {

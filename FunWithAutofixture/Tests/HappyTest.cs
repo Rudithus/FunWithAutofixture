@@ -1,11 +1,11 @@
-using Xunit;
 using AutoFixture;
 using AutoFixture.AutoMoq;
-using Moq;
 using AutoFixture.Xunit2;
 using FluentAssertions;
+using Moq;
+using Xunit;
 
-namespace FunWithAutofixture
+namespace FunWithAutofixture.Tests
 {
     public class HappyTest
     {

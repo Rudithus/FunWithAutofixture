@@ -1,9 +1,9 @@
-﻿using Xunit;
-using Moq;
+﻿using System;
 using AutoFixture.Xunit2;
-using System;
+using Moq;
+using Xunit;
 
-namespace FunWithAutofixture
+namespace FunWithAutofixture.Tests
 {
     public class ConfigurableMessageSenderTest
     {
